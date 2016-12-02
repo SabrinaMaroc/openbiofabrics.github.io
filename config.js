@@ -10,7 +10,7 @@ GH.OWNER = 'LeBiome'
 GH.CREW = 'organisations'
 
 var MULTIBAO = {}
-MULTIBAO.UVP1 = 'BIomimicry Wide Community'
+MULTIBAO.UVP1 = 'Biomimicry Wide Community'
 MULTIBAO.UVP2 = 'DIY / DIT / DIWO'
 MULTIBAO.BUTTON1 = 'Découvrir'
 MULTIBAO.BUTTON2 = 'Espace contributeurs / Biomers'

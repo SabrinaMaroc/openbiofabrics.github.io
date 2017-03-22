@@ -610,7 +610,7 @@ layout.folders.html('\n<main class="container">\n  <div id="breadcrumb" class="b
 *
 */
 layout.home = new Layout('home');
-layout.home.html('\n<main>\n  <section class="home-intro">\n      <div class="home-intro-content container">\n        <h2>' + MULTIBAO.UVP1 + '<span>' + MULTIBAO.UVP2 + '</span></h2>\n        <div>\n          <a href="#multibao/contributions/blob/master/pages/commencer_ici.md">' + MULTIBAO.BUTTON1 + '</a>\n        </div>\n        <div>\n          <a href="#multibao/documentation/blob/master/README.md">' + MULTIBAO.BUTTON2 + '</a>\n        </div>\n      </div>\n  </section>\n  <section id="gh-crew-list" class="container">\n    <ul data-template="crews">\n    </ul>\n  </section>\n</main>');
+layout.home.html('\n<main>\n  <section class="home-intro">\n      <div class="home-intro-content container">\n        <h2>' + MULTIBAO.UVP1 + '<span>' + MULTIBAO.UVP2 + '</span></h2>\n        <div>\n          <a href="#LeBiome/contributions/blob/master/commencer_ici.md">' + MULTIBAO.BUTTON1 + '</a>\n        </div>\n        <div>\n          <a href="#LeBiome/contributions/blob/master/README.md">' + MULTIBAO.BUTTON2 + '</a>\n        </div>\n      </div>\n  </section>\n  <section id="gh-crew-list" class="container">\n    <ul data-template="crews">\n    </ul>\n  </section>\n</main>');
 'use strict';
 
 /**

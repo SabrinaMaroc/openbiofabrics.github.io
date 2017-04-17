@@ -13,4 +13,4 @@ var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Biomimicry Wide Community'
 MULTIBAO.UVP2 = 'DIY / DIT / DIWO'
 MULTIBAO.BUTTON1 = 'Découvrir'
-MULTIBAO.BUTTON2 = 'Espace contributeurs / Biomers'
+MULTIBAO.BUTTON2 = 'Être Biomer'

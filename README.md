@@ -75,10 +75,11 @@ Vincent Agnano : Anywhere
 
 ## Suivi des tâches de développement web
 
-## Comment changer les boutons d'accueil lien et titre
-- Lien : Dans les fichiers dk.js et dk.min.js présents dans le dossier dist, il faut changer les liens du MUTLIBAO.BUTTON1 ou MULTIBAO.BUTTON2 en les retrouvant dans les fichiers grâce à CTRL+F "MULTIBAO.BUTTON" 
-CONSEIL : en mode edit, choisir soft wrap plutôt que no wrap. 
+## Comment changer ou ajouter des boutons d'accueil lien et titre
+- Lien : Dans le fichier dk.min.js présent dans le dossier dist, il faut changer les liens du MUTLIBAO.BUTTON1 ou MULTIBAO.BUTTON2 en les retrouvant dans les fichiers grâce à CTRL+F "MULTIBAO.BUTTON" 
+CONSEILS : en mode edit, choisir soft wrap plutôt que no wrap & faire CTRL+F avec le navigateur et non dans la fenêtre d'édition car ça fonctionne mal. 
 - Titre du bouton : retourner à la racine du site et modifier le fichier config.js et retrouver les MULTIBAO.BUTTON pour changer leur titre entre '. 
+- Pour ajouter un bouton, dans dk.min.js il faut copier une balise de bouton comprise entre "<div></div>\n", la coller après celle du deuxième bouton en changeant le lien et en incrémentant le numéro de bouton. Puis sur config.js il faut rajouter une ligne identique à celle des boutons précédents en incrémentant le numéro et en le nommant comme on veut le voir sur la page d'accueil. 
 
 ## A creuser
 

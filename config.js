@@ -7,7 +7,7 @@ GH.ID = 'ODUzMjY1YjA5YjBjMjVlOTg2MTQ='
 // Github Owner's
 GH.OWNER = 'OpenBioFabrics'
 // Github crew's repository
-GH.CREW = 'Organisations'
+GH.CREW = 'Organisation'
 
 var MULTIBAO = {}
 MULTIBAO.UVP1 = 'SCOBY Growers, BioFabrics Makers'

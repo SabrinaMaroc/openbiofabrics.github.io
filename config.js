@@ -7,6 +7,6 @@ GH.ID = 'ODUzMjY1YjA5YjBjMjVlOTg2MTQ='
 // Github Owner's
 GH.OWNER = 'OpenBioFabrics'
 // Github crew's repository
-GH.CREW = 'organisations'
+GH.CREW = 'Organisations'
 
 

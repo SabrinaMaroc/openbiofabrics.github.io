@@ -10,7 +10,7 @@ GH.OWNER = 'OpenBioFabrics'
 GH.CREW = 'Organisation'
 
 var MULTIBAO = {}
-MULTIBAO.UVP1 = 'SCOBY Growers, BioFabrics Makers'
-MULTIBAO.UVP2 = 'Open Source & Collaborative'
+MULTIBAO.UVP1 = ''
+MULTIBAO.UVP2 = ''
 
 
